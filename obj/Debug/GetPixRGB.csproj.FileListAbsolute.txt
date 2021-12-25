@@ -1,0 +1,9 @@
+C:\Users\nefer\source\repos\GetPixRGB\bin\Debug\GetPixRGB.exe.config
+C:\Users\nefer\source\repos\GetPixRGB\bin\Debug\GetPixRGB.exe
+C:\Users\nefer\source\repos\GetPixRGB\bin\Debug\GetPixRGB.pdb
+C:\Users\nefer\source\repos\GetPixRGB\obj\Debug\GetPixRGB.csprojAssemblyReference.cache
+C:\Users\nefer\source\repos\GetPixRGB\obj\Debug\GetPixRGB.Form1.resources
+C:\Users\nefer\source\repos\GetPixRGB\obj\Debug\GetPixRGB.Properties.Resources.resources
+C:\Users\nefer\source\repos\GetPixRGB\obj\Debug\GetPixRGB.csproj.GenerateResource.cache
+C:\Users\nefer\source\repos\GetPixRGB\obj\Debug\GetPixRGB.exe
+C:\Users\nefer\source\repos\GetPixRGB\obj\Debug\GetPixRGB.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPixRGB", "GetPixRGB.csproj", "{347BC70C-D94D-4BC4-91E8-8603114643EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{347BC70C-D94D-4BC4-91E8-8603114643EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347BC70C-D94D-4BC4-91E8-8603114643EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347BC70C-D94D-4BC4-91E8-8603114643EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347BC70C-D94D-4BC4-91E8-8603114643EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {820CD533-4770-4512-8A7E-C0C67CF5926F}
+	EndGlobalSection
+EndGlobal
